@@ -7,7 +7,7 @@ A simple and elegant UI element that morphs a button into a overlay modal. Built
 ## License
 
 This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute this project for any purpose — **just give credit to MR OK**. ❤️
+Feel free to use, modify, and distribute this project for any purpose — **just give credit**. 
 
 ## Features
 
@@ -18,4 +18,4 @@ Feel free to use, modify, and distribute this project for any purpose — **just
 
 ## Live Preview
 
-👉 [Click here to view live](https://mrhojay.github.io/Morphing-Button-Animation-Template/)
+→ [Click here to view live](https://mrhojay.github.io/Morphing-Button-Animation-Template/)
