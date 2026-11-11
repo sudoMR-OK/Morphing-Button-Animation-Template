@@ -18,4 +18,4 @@ Feel free to use, modify, and distribute this project for any purpose — **just
 
 ## Live Preview
 
-→ [Click here to view live](https://mrhojay.github.io/Morphing-Button-Animation-Template/)
+→ [Click here to view live](https://sudomr-ok.github.io/Morphing-Button-Animation-Template/)
